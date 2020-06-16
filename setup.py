@@ -52,7 +52,6 @@ setuptools.setup(
     name=setuptools_name,
     version=config.VERSION,
     description='Python-based EOS smart-contract development & testing framework',
-    long_description=readme(),
     classifiers=[
         "Programming Language :: Python :: 3.5",
         "License :: OSI Approved :: MIT License",
